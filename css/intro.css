@@ -1,0 +1,36 @@
+.welcome{
+    text-align: center;
+    margin-top: 0;
+    color: #2F2E2E;
+    text-align: center;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.banner{
+    background-color: #E0E0E0;
+    height: 20rem;
+    width: 100%;
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.logo3{
+    height: 170px;
+    margin: -30px 0px 0px -60px;
+}
+
+.logo4{
+    height: 10px;
+}
